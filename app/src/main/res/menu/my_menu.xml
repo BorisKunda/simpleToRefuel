@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Favorites"
+          android:id="@+id/favouriteMenuItem" />
+
+    <item android:title="Exit"
+        android:id="@+id/exitMenuItem" />
+
+</menu>
